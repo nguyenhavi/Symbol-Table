@@ -16,4 +16,4 @@ How to run it?
 
 Step 1: compile it with command g++ -o main main.cpp 
 
-Step 2: run it with command ./main testcase.txt
+Step 2: run it with command ./main test1.txt
