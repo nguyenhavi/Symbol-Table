@@ -11,3 +11,7 @@ the symbol table in order to trace the information required in those checks.
 
 In this assignment, students are required to implement a simulation of a record table, using
 list data structures.
+
+How to run it?
+Step 1: compile it with command g++ -o main main.cpp 
+Step 2: run it with command ./main testcase.txt
